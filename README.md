@@ -6,6 +6,7 @@ npm install
 *UPDATE & INSTALL COMPOSER*
 
 composer update 
+
 composer install 
 
 
