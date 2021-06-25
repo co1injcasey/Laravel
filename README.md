@@ -1,33 +1,33 @@
-*DOWNLOAD PROJECT DEPENDECIES* 
+### DOWNLOAD PROJECT DEPENDECIES 
 
 npm install 
 
 
-*UPDATE & INSTALL COMPOSER*
+### UPDATE & INSTALL COMPOSER
 
 composer update 
 
 composer install 
 
 
-*RENAME .env.example to .env*
+### RENAME .env.example to .env
 
 
-*GENERATE PHP ARTISAN KEY*
+### GENERATE PHP ARTISAN KEY
 
 php artisan key:generate
 
 
-*MIGRATE THE DATABSE TABLES*
+### MIGRATE THE DATABSE TABLES
 
 php artisan migrate
 
 
-*RUN ANY DB SEED* 
+### RUN ANY DB SEED
 
 php artisan db:seed 
 
 
-*START THE DEVELOPMENT SERVER*
+### START THE DEVELOPMENT SERVER*
 
 php artisan serve 
