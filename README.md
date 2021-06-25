@@ -21,6 +21,10 @@ php artisan key:generate
 *MIGRATE THE DATABSE TABLES*
 
 php artisan migrate
+
+
+*RUN ANY DB SEED* 
+
 php artisan db:seed 
 
 
