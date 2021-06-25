@@ -10,7 +10,7 @@ composer update
 composer install 
 
 
-*RENAME .env.example to .env *
+*RENAME .env.example to .env*
 
 
 *GENERATE PHP ARTISAN KEY*
